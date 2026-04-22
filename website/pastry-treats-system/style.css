@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    text-align: center;
+}
+
+.product-container, .cart-container {
+    max-width: 600px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.product {
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
+.product img {
+    width: 100px;
+    height: 100px;
+}
+
+button {
+    background-color: #ff69b4;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ff1493;
+}
+.cart table {
+    width: 100%;
+    border-collapse: collapse; /* Ensures proper grid lines */
+    margin-top: 20px;
+    border: 2px solid black; /* 🔹 Adds black border to the entire table */
+}
+
+.cart th, .cart td {
+    border: 2px solid black; /* 🔥 Darker, more visible grid lines */
+    padding: 12px;
+    text-align: center;
+}
+
+.cart th {
+    background-color: #ffb6c1; /* Light pink header */
+    color: white;
+    font-size: 18px;
+}
+
+.cart td input[type="number"] {
+    width: 60px; /* Adjust input width */
+    text-align: center;
+}
+
+.cart h3 {
+    margin-top: 20px;
+    text-align: right; /* Align total price to the right */
+}
+
+.cart button {
+    background-color: #ff6666; /* Red button for Remove */
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.cart button:hover {
+    background-color: #cc0000; /* Darker red on hover */
+}

@@ -1,0 +1,1096 @@
+Received product_id: Array
+(
+    [product_id] => 3
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 7
+)
+
+Received product_id: Array
+(
+    [product_id] => 7
+)
+
+Received product_id: Array
+(
+    [product_id] => 3
+)
+
+Received product_id: Array
+(
+    [product_id] => 3
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 3
+)
+
+Received product_id: Array
+(
+    [product_id] => 3
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 3
+)
+
+Received product_id: Array
+(
+    [product_id] => 3
+)
+
+Received product_id: Array
+(
+    [product_id] => 3
+)
+
+Received product_id: Array
+(
+    [product_id] => 3
+)
+
+Received product_id: Array
+(
+    [product_id] => 3
+)
+
+Received product_id: Array
+(
+    [product_id] => 3
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","refresh":true}
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","refresh":true}
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","refresh":true}
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","refresh":true}
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 3
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","refresh":true}
+Received product_id: Array
+(
+    [product_id] => 3
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","refresh":true}
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","refresh":true}
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","refresh":true}
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 3
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","refresh":true}
+Received product_id: Array
+(
+    [product_id] => 3
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","refresh":true}
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 3
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","refresh":true}
+Received product_id: Array
+(
+    [product_id] => 3
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","refresh":true}
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","refresh":true}
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","refresh":true}
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","refresh":true}
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","refresh":true}
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","refresh":true}
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","refresh":true}
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","refresh":true}
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","refresh":true}
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","refresh":true}
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","refresh":true}
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","refresh":true}
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","refresh":true}
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","refresh":true}
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","refresh":true}
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","refresh":true}
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","refresh":true}
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","cart":{"2":{"name":"Strawberry Tart","price":"8.50","quantity":"5"}}}
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","cart":[]}
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","cart":{"2":{"name":"Strawberry Tart","price":"8.50","quantity":"5"}}}
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","cart":[]}
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","cart":{"2":{"name":"Strawberry Tart","price":"8.50","quantity":"5"}}}
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","cart":[]}
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","cart":{"2":{"name":"Strawberry Tart","price":"8.50","quantity":"5"}}}
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","cart":[]}
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","cart":[]}
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","cart":{"1":{"name":"Chocolate Cake","price":"100.00","quantity":"6"}}}
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","cart":[]}
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","cart":[]}
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","cart":{"1":{"name":"Chocolate Cake","price":"100.00","quantity":"7"}}}
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","cart":[]}
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","cart":{"1":{"name":"Chocolate Cake","price":"100.00","quantity":"10"}}}
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","cart":[]}
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","cart":[]}
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","cart":{"1":{"name":"Chocolate Cake","price":"100.00","quantity":"10"}}}
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","cart":[]}
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","cart":{"2":{"name":"Strawberry Tart","price":"8.50","quantity":"6"}}}
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","cart":[]}
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","cart":[]}
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","cart":{"1":{"name":"Chocolate Cake","price":"100.00","quantity":"5"}}}
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","cart":[]}
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","cart":{"1":{"name":"Chocolate Cake","price":"100.00","quantity":"6"}}}
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","cart":[]}
+Received product_id: Array
+(
+    [product_id] => 1
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","cart":[]}
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
+Final response: {"success":true,"message":"Item removed successfully and stock restored!","cart":[]}
+Received product_id: Array
+(
+    [product_id] => 2
+)
+
