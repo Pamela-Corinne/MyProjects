@@ -69,40 +69,78 @@ include 'config.php';
     </div>
 </div>
 
-<!-- Edit Product Modal -->
+<!-- Edit Product Modal - Updated -->
 <div id="editModal" class="modal">
     <div class="modal-content">
         <span class="close">&times;</span>
         <h2>Edit Product</h2>
+        
+        <?php if (isset($_SESSION['edit_error'])): ?>
+            <div style="background: #ffe6e6; color: #cc0000; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
+                <?= htmlspecialchars($_SESSION['edit_error']) ?>
+            </div>
+            <?php unset($_SESSION['edit_error']); ?>
+        <?php endif; ?>
+        
+        <?php if (isset($_SESSION['edit_success'])): ?>
+            <div style="background: #e6ffe6; color: #006600; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
+                <?= htmlspecialchars($_SESSION['edit_success']) ?>
+            </div>
+            <?php unset($_SESSION['edit_success']); ?>
+        <?php endif; ?>
+        
         <form id="editForm" method="POST" action="update_product.php" enctype="multipart/form-data">
             <input type="hidden" name="id" id="editId">
-            <label>Product Name</label>
-            <input type="text" name="name" id="editName" required>
-            <label>Price</label>
-            <input type="number" name="price" id="editPrice" required step="0.01">
-            <label>Stock Quantity</label>
-            <input type="number" name="stock" id="editStock" required>
-            <label>Current Image</label>
-            <img id="editImagePreview" src="" width="100" height="100">
-            <label>Upload New Image</label>
-            <input type="file" name="image">
-            <button type="submit">Update Product</button>
+            
+            <label style="display: block; margin: 10px 0 5px; font-weight: bold;">Product Name</label>
+            <input type="text" name="name" id="editName" required 
+                   style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box;">
+            
+            <label style="display: block; margin: 10px 0 5px; font-weight: bold;">Price (₱)</label>
+            <input type="number" name="price" id="editPrice" required step="0.01" 
+                   style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box;">
+            
+            <label style="display: block; margin: 10px 0 5px; font-weight: bold;">Stock Quantity</label>
+            <input type="number" name="stock" id="editStock" required 
+                   style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box;">
+            
+            <label style="display: block; margin: 10px 0 5px; font-weight: bold;">Current Image</label>
+            <img id="editImagePreview" src="" alt="Current product image" 
+                 style="width: 120px; height: 120px; object-fit: cover; border-radius: 5px; border: 2px solid #ddd; display: block; margin: 10px auto;">
+            
+            <label style="display: block; margin: 10px 0 5px; font-weight: bold;">Upload New Image (optional)</label>
+            <input type="file" name="image" accept="image/*" 
+                   style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box;">
+            <small style="color: #666; display: block; margin-top: 5px;">Leave empty to keep current image</small>
+            
+            <div style="text-align: center; margin-top: 20px;">
+                <button type="submit" 
+                        style="background-color: #ff69b4; color: white; padding: 12px 30px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px; margin-right: 10px;">
+                    Update Product
+                </button>
+                <button type="button" class="close-btn" 
+                        style="background-color: #999; color: white; padding: 12px 30px; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
+                    Cancel
+                </button>
+            </div>
         </form>
     </div>
 </div>
 
-<!-- Modal Styling -->
+<!-- Combined Styles -->
 <style>
     body { display: flex; margin: 0; }
     .sidebar { 
-        width: 200px; background: #ffb6c1; padding: 20px;
+        width: 200px; 
+        background: #ffb6c1; 
+        padding: 20px;
         min-height: 100vh;
         overflow: hidden;
-    transition: width 0.3s ease-in-out; /* Smooth transition */}
+        transition: width 0.3s ease-in-out;
+    }
     .sidebar ul { list-style: none; padding: 0; }
     .sidebar ul li { margin: 20px 0; }
-    .sidebar ul li a { text-decoration: none; color: white; font-size: 18px; 
-    }
+    .sidebar ul li a { text-decoration: none; color: white; font-size: 18px; }
     .main-content { flex: 1; padding: 20px; }
     .product-container { display: flex; gap: 20px; flex-wrap: wrap; }
     .product-card { border: 1px solid #ddd; padding: 10px; width: 200px; text-align: center; }
@@ -112,13 +150,102 @@ include 'config.php';
     .edit-btn, .delete-btn { text-decoration: none; padding: 5px 10px; margin: 5px; display: inline-block; cursor: pointer; }
     .edit-btn { background-color: #4CAF50; color: white; border: none; }
     .delete-btn { background-color: #FF0000; color: white; }
-    .modal { display: none; position: fixed; left: 0; top: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); }
-    .modal-content { background: white; padding: 20px; margin: 10% auto; width: 300px; border-radius: 5px; }
-    .close { float: right; font-size: 20px; cursor: pointer; }
+
+    /* Enhanced Modal Styles */
+    .modal { 
+        display: none; 
+        position: fixed; 
+        left: 0; 
+        top: 0; 
+        width: 100%; 
+        height: 100%; 
+        background: rgba(0,0,0,0.5); 
+        z-index: 1000;
+        overflow-y: auto;
+    }
+
+    .modal-content { 
+        background: white; 
+        padding: 30px; 
+        margin: 5% auto; 
+        width: 90%; 
+        max-width: 450px; 
+        border-radius: 10px; 
+        box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+        position: relative;
+    }
+
+    .close { 
+        position: absolute; 
+        right: 20px; 
+        top: 15px; 
+        font-size: 28px; 
+        font-weight: bold; 
+        cursor: pointer; 
+        color: #aaa;
+        transition: color 0.3s;
+    }
+
+    .close:hover { 
+        color: #000; 
+    }
+
+    .modal-content label {
+        color: #333;
+        font-size: 14px;
+    }
+
+    .modal-content input[type="text"],
+    .modal-content input[type="number"] {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        box-sizing: border-box;
+        font-size: 14px;
+        transition: border-color 0.3s;
+    }
+
+    .modal-content input:focus {
+        outline: none;
+        border-color: #ff69b4;
+    }
+
+    .modal-content button[type="submit"] {
+        background-color: #ff69b4 !important;
+        color: white !important;
+        padding: 12px 30px !important;
+        border: none !important;
+        border-radius: 5px !important;
+        cursor: pointer !important;
+        font-size: 16px !important;
+        font-weight: bold;
+        transition: background-color 0.3s;
+    }
+
+    .modal-content button[type="submit"]:hover {
+        background-color: #ff1493 !important;
+    }
+
+    .modal-content button.close-btn {
+        background-color: #999 !important;
+        color: white !important;
+        padding: 12px 30px !important;
+        border: none !important;
+        border-radius: 5px !important;
+        cursor: pointer !important;
+        font-size: 16px !important;
+        font-weight: bold;
+        transition: background-color 0.3s;
+    }
+
+    .modal-content button.close-btn:hover {
+        background-color: #666 !important;
+    }
 </style>
 
-<!-- Modal & Edit Logic -->
 <script>
+// Enhanced modal functionality
 document.querySelectorAll('.edit-btn').forEach(button => {
     button.addEventListener('click', function() {
         document.getElementById('editId').value = this.dataset.id;
@@ -127,11 +254,24 @@ document.querySelectorAll('.edit-btn').forEach(button => {
         document.getElementById('editStock').value = this.dataset.stock;
         document.getElementById('editImagePreview').src = this.dataset.image;
         document.getElementById('editModal').style.display = 'block';
+        document.body.style.overflow = 'hidden';
     });
 });
 
-document.querySelector('.close').addEventListener('click', function() {
+// Close modal handlers
+document.querySelector('.close').addEventListener('click', closeModal);
+document.querySelector('.close-btn').addEventListener('click', closeModal);
+
+function closeModal() {
     document.getElementById('editModal').style.display = 'none';
+    document.body.style.overflow = 'auto';
+}
+
+// Close when clicking outside modal
+window.addEventListener('click', function(e) {
+    if (e.target == document.getElementById('editModal')) {
+        closeModal();
+    }
 });
 </script>
 
