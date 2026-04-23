@@ -1,11 +1,18 @@
 Website Project
+
+
 This website is a simple ordering system where users can browse products and place orders.
 
 Features
+
 Product listing
+
 Add to cart system
+
 Checkout system
+
 Order confirmation email using SMTP
+
 📧 Email (SMTP) Feature
 
 This website sends automatic order confirmation emails using Gmail SMTP when a user completes a purchase.
